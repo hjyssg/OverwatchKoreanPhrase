@@ -23,6 +23,7 @@ useful Korean phrase can be used in Korea server
 |아나님 ** 가능 |安娜，能xx吗？|
 |야타 못해요 |不会和尚|
 |딜러 못해 |不会c位|
+|딜러 못함 |不会c位|
 |다바 필이야 |dva 一丝|
 |xx부조화 |xx被和尚挂e|
 |우리 xx 없어 |我们的谁谁不在|
@@ -48,6 +49,8 @@ useful Korean phrase can be used in Korea server
 |ㅇㅇ |嗯嗯|
 |ㅈㅈ |gg |
 |하이 |Hi|
+|ㄴㄴㄴ|No|
+|ㄱㄱ |go go|
 |ㄲㅂ |可惜！|
 |Care| 케어|
 |어떻게 = 어게 |怎么办|

@@ -1,7 +1,7 @@
 # OverwatchKoreanPhrase
 Useful Korean phrase can be used in Korea server
 
-为了玩亚服，自学的
+为了玩守望亚服，自学的
 
 #### 选阵容
 
@@ -39,7 +39,7 @@ Useful Korean phrase can be used in Korea server
 |xx 조심 |小心对面的xx|
 |가지마 |别去|
 |라인 뽕 줄겟 |大锤，激素给你|
-|뿡 주새요 |激素给我|
+|뿡 주세요 |激素给我|
 |뽕겐지 |激素源氏|
 |라인 케어 |奶大锤|
 |다바 필이야 |dva 一丝|
@@ -59,6 +59,7 @@ Useful Korean phrase can be used in Korea server
 
 | 韩语 | 中文 |
 | ------ | ------ |
+|하이 |Hi|
 |ㅅㅂ |cnm|
 |ㅋㅋㅋㅋㅋㅋ |233333|
 |ㄱㅅ |谢了|
@@ -73,9 +74,11 @@ Useful Korean phrase can be used in Korea server
 |머야 | what?|
 |어떻게 = 어게 |怎么办|
 |알았어 |知道了|
-|하이 |Hi|
 |하이루 | Hello|
+|ㅅㄱ | 辛苦了|
 
+更多參考
+http://www.koreanwikiproject.com/wiki/Internet_and_text_messaging
 
 #### 説明国籍
 
